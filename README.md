@@ -7,10 +7,6 @@
 - [SWE Job Hunt](https://swe-job-hunt.vercel.app/): No more jobless
 - [AI Tools Interface](https://ai-tools-interface.vercel.app/): For learning Angular and Leetcode
 
-## GitHub activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/kevingunawanc14)
-
 ## Try SWE Job Hunt
 
 <a href="https://swe-job-hunt.vercel.app/">
@@ -20,5 +16,5 @@
 ## Try AI Tools Interface
 
 <a href="https://ai-tools-interface.vercel.app/">
-  <img src="./img/" alt="AIToolsInterface">
+  <img width="1919" height="924" alt="ai_tools" src="https://github.com/user-attachments/assets/3ff25da6-ace8-44e9-bdb5-49e1d78d27a9" />
 </a>
