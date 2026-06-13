@@ -1,12 +1,12 @@
 Readme · MD
 # Hi I'm Kevin 
  
-Frontend Engineer
+📍 Indonesia &middot; Frontend Engineer &middot;
  
 ## Building
 
 - [SWE Job Hunt](https://swe-job-hunt.vercel.app/): No more jobless
-- [AI Tools Interface](https://ai-tools-interface.vercel.app/): For learning angular and leetcode
+- [AI Tools Interface](https://ai-tools-interface.vercel.app/): For learning Angular and Leetcode
 
 ## GitHub activity
 
@@ -14,7 +14,7 @@ Frontend Engineer
 
 ## Try SWE Job Hunt
 
-<a href="[https://www.greatfrontend.com/?gnrs=yangshun](https://swe-job-hunt.vercel.app/)">
+<a href="https://swe-job-hunt.vercel.app/">
   <img src="./img/" alt="SWEJobHunt">
 </a>
 
