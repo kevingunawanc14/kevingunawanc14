@@ -1,4 +1,3 @@
-Readme · MD
 # Hi I'm Kevin 
  
 📍 Indonesia &middot; Frontend Engineer &middot;
@@ -15,7 +14,7 @@ Readme · MD
 ## Try SWE Job Hunt
 
 <a href="https://swe-job-hunt.vercel.app/">
-  <img src="./img/" alt="SWEJobHunt">
+  <img width="1909" height="921" alt="slop_hunt" src="https://github.com/user-attachments/assets/124cf5c9-7233-4de2-947b-cc7a9f8c54d1">
 </a>
 
 ## Try AI Tools Interface
