@@ -20,6 +20,6 @@ Readme · MD
 
 ## Try AI Tools Interface
 
-<a href="https://www.greatfrontend.com/">
+<a href="https://ai-tools-interface.vercel.app/">
   <img src="./img/" alt="AIToolsInterface">
 </a>
