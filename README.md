@@ -1,6 +1,6 @@
 # Hi, I'm Kevin 👋
  
-📍 Indonesia &middot; Frontend Engineer &middot;
+📍 **Indonesia** &middot; **Frontend Engineer** &middot;
 
 Now at **ShuffleUp**, working on frontend side.
 
