@@ -1,11 +1,20 @@
-# Hi I'm Kevin 
+# Hi, I'm Kevin 👋
  
 📍 Indonesia &middot; Frontend Engineer &middot;
- 
+
+Now at **ShuffleUp**, working on frontend side.
+
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+
 ## Building
 
-- [SWE Job Hunt](https://swe-job-hunt.vercel.app/): No more jobless
-- [AI Tools Interface](https://ai-tools-interface.vercel.app/): For learning Angular and Leetcode
+- 🎯 **[SWE Job Hunt](https://swe-job-hunt.vercel.app/)**: No more jobless
+- 👨‍💻 **[AI Tools Interface](https://ai-tools-interface.vercel.app/)**: For learning Angular and Leetcode
 
 ## Try SWE Job Hunt
 
