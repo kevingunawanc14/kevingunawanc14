@@ -11,7 +11,7 @@ Now at **ShuffleUp**, working on frontend side.
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-## Building
+## Projects
 
 - 🎯 **[SWE Job Hunt](https://swe-job-hunt.vercel.app/)**: No more jobless
 - 👨‍💻 **[AI Tools Interface](https://ai-tools-interface.vercel.app/)**: For learning Angular and Leetcode
