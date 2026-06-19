@@ -14,7 +14,7 @@ Now at **ShuffleUp**, working on frontend side.
 ## Projects
 
 - 🎯 **[SWE Job Hunt](https://swe-job-hunt.vercel.app/)**: No more jobless
-- 👨‍💻 **[AI Tools Interface](https://ai-tools-interface.vercel.app/)**: For learning Angular and Leetcode
+- 👨‍💻 **[AI Tools](https://ai-tools-interface.vercel.app/)**: For learning Angular and Leetcode
 
 ## Try SWE Job Hunt
 
