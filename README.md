@@ -13,13 +13,13 @@ Now at **ShuffleUp**, working on frontend side.
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
 ## Projects
-- 🐶 **[Interview Dog]((https://interviewdog.vercel.app))**: System design preparation with AI
+- 🐶 **[Interview Dog](https://interviewdog.vercel.app)**: System design preparation with AI
 - 🎯 **[SWE Job Hunt](https://swe-job-hunt.vercel.app/)**: No more jobless
 - 👨‍💻 **[AI Tools](https://ai-tools-interface.vercel.app/)**: For learning Angular and Leetcode
 
 ## Try Interview Dog
 <a href="(https://interviewdog.vercel.app)">
-  <img width="1909" height="921" alt="slop_hunt" src="<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/eb61f07b-348e-4094-82fe-f755792d6817" />
+  <img width="1909" height="921" alt="slop_hunt" src"https://github.com/user-attachments/assets/eb61f07b-348e-4094-82fe-f755792d6817" />
 ">
 </a>
 
