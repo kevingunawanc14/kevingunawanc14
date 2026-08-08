@@ -19,7 +19,7 @@ Now at **ShuffleUp**, working on frontend side.
 
 ## Try Interview Dog
 <a href="(https://interviewdog.vercel.app)">
-  <img width="1909" height="921" alt="interview_dog" src"https://github.com/user-attachments/assets/eb61f07b-348e-4094-82fe-f755792d6817" />
+  <img width="1919" height="919" alt="interview_dog" src="https://github.com/user-attachments/assets/a40e9214-2326-42b5-abe2-b578d58bb6d9" />
 </a>
 
 ## Try SWE Job Hunt
